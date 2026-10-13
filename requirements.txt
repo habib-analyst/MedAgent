@@ -1,0 +1,2 @@
+# MedAgent — pinned to the stable MCP 1.x SDK (FastMCP API)
+mcp>=1.9,<2
