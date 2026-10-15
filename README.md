@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)] [![GitHub stars](https://img.shields.io/github/stars/habib-analyst/MedAgent.svg)](https://github.com/habib-analyst/MedAgent)
+
 # MedAgent — Voice-First Medication Companion for Alexa+
 
 MedAgent is a **voice-first medication-reminder + clinic-triage agent** built as a
